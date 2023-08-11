@@ -9,10 +9,15 @@ console.log("name",b);
 const ab = 87;
 const ba =67;
 const ca = 56;
+const gh=78;
 
 
-let result=ab*ba*ca;
+let value=ab*ba*ca;
+
+console.log("multiplication are there ",value);
+
+
+let result=ab*ba*ca*gh;
 
 console.log("multiplication are there ",result);
-
 
